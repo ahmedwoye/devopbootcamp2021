@@ -1,2 +1,18 @@
 Master branch
 This is a new add up
+ 7  sudo amazon-linux-extras install nginx1
+    8  sudo systemctl start nginx
+    9  sudo systemctl status nginx
+   10  sudo systemctl stop nginx
+   11  history
+
+   #git hub commands
+
+   git push -u origin master
+  352  git remote add origin git@github.com:ahmedwoye/devopbootcamp2021.git
+  353  git push -u origin master
+  357  git status
+  358  git commit -am "first updated by the boss"
+  360   git remote add origin git@github.com:ahmedwoye/devopbootcamp2021.git
+  361  git push -u origin master
+  392  history | grep git
